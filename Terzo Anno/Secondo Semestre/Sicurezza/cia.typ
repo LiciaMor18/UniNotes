@@ -209,5 +209,5 @@ _Esempio di albero_:
 == Computer Security Strategies
 Come si gestisce quindi la sicurezza a livello aziendale?
 - *Specification / Policy (Cosa Fare?)*: Le regole che indicano cosa deve fare il sistema (es. lunghezza minima di una password). Queste devono bilanciare il costo della sicurezza col costo di un eventuale attacco.
-- *Implementation / Mechanisms (Come Farlo?)*: Le tecnologie usate per prevenire, rilevare, rispondere e ruperare i dati.
+- *Implementation / Mechanisms (Come Farlo?)*: Le tecnologie usate per prevenire, rilevare, rispondere e recuperare i dati.
 - *Assurance ed Evaluation (Funziona?)*: Il livello di confidenza che i meccanismi implementati rispettino effettivamente le policy. Questo si ottiene tramite test, certificazioni e analisi.
